@@ -17,5 +17,5 @@ def get_cats_info(path):
         return []
 
 
-cats_info = get_cats_info("/Users/denys/Desktop/python/pycore-hw-04/cats_file.txt")
+cats_info = get_cats_info("/Users/denys/Desktop/python/pycore-hw-04/task_2/cats_file.txt")
 print(cats_info)
